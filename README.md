@@ -25,3 +25,8 @@ Follow the steps below to run the contract:
 3) Type 'node recipient-tree.js proof addresses.txt <Address>' to get path and witness array for the given address.
 4) Once deployed to truffle, call the DeployAirdrop function using the account that was used to deploy the function, and enter token details along with the root hash.
 5) You can now call the other functions.
+
+##Credits
+- Thank you professors Doug Hoyte and Dhruvin Parikh for your guidance, DApp university's Gregory Mccubbin, and Medium users Smartz and RicMoo for your insights.
+- The 'recipient-tree.js' code and the code for RedeemToken function in the AirDropToken contract were adapted from The Merkle Tree Lab activity in Advanced Smart Contracts class of the Blockchain Development course at George Brown College.
+
